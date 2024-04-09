@@ -2,11 +2,12 @@
 
 ### I'm a software engineer with knowledge in...
 
-- Elixir/Gleam/Erlang/OTP
+- Elixir/Gleam/Erlang
 - Java
 - Go
 - TypeScript/JavaScript
 - Phoenix/LiveView
+- OTP
 - The Spring Ecosystem
 - Chi and Go's net/http lib
 
@@ -14,6 +15,6 @@ My current interests include functional programming primarily in the BEAM ecosys
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=nicklatch&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/nicklatch/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=nicklatch&show_icons=true&theme=onedark&rank_icon=github&card_width=475)](https://github.com/nicklatch/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicklatch&show_icons=true&theme=react&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicklatch&show_icons=true&theme=onedark&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
