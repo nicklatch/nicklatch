@@ -15,6 +15,6 @@ My current interests include functional programming primarily in the BEAM ecosys
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=nicklatch&show_icons=true&theme=onedark&rank_icon=github&card_width=475)](https://github.com/nicklatch/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=nicklatch&show_icons=true&theme=onedark&rank_icon=github&hide=stars&card_width=475)](https://github.com/nicklatch/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicklatch&show_icons=true&theme=onedark&card_width=475)](https://github.com/anuraghazra/github-readme-stats)
