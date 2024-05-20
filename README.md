@@ -7,9 +7,6 @@
 - Go
 - TypeScript/JavaScript
 - Phoenix/LiveView
-- OTP
-- The Spring Ecosystem
-- Chi and Go's net/http lib
 
 My current interests include functional programming primarily in the BEAM ecosystem (Elixir, Gleam, and Erlang) and with ML style languages (Haskell and Ocaml). I also really enjoy digging into the nitty-gritty details of web service performance and exploring realtime concurrent systems.
 
