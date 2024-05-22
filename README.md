@@ -2,7 +2,7 @@
 
 I'm a software engineer with knowledge in Elixir, Java, Go, PHP. As well as the Spring ecosystem, Phoenix, and Laravel.
   
-My current interests include functional programming primarily in the BEAM ecosystem (Elixir, Gleam, and Erlang). I've also recently started to explore Laravel.
+My current interests include functional programming primarily in the BEAM ecosystem (Elixir, Gleam, and Erlang). I've also recently started to deep dive into Laravel.
 
 I also really enjoy digging into the nitty-gritty details of web service performance and exploring realtime systems.
 
