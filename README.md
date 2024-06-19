@@ -1,12 +1,10 @@
 # Hi, I'm Nick 👋
 
-I'm a software engineer with knowledge in Elixir, Java, Go, PHP. As well as the Spring ecosystem, Phoenix, and Laravel.
+I'm a software engineer with knowledge in Java, Go, PHP; as well as the Spring ecosystem and Laravel.
   
-My current interests include functional programming primarily in the BEAM ecosystem (Elixir, Gleam, and Erlang). I've also recently started to deep dive into Laravel.
+My current interests include functional programming (Ocaml, Elixir, and Erlang) and deep diving into the Spring ecosystem.
 
-I also really enjoy digging into the nitty-gritty details of web service performance and exploring realtime systems.
-
-Available for hire!
+I also really enjoy digging into the nitty-gritty details of web service performance and exploring actor based systems.
 
 ---
 
