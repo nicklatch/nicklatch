@@ -1,10 +1,10 @@
 # Hi, I'm Nick 👋
 
-I'm a software engineer with knowledge in Java, Go, PHP; as well as the Spring ecosystem and Laravel.
+I'm a software engineer who loves both web and systems programming!
   
-My current interests include functional programming (Ocaml, Elixir, and Erlang) and deep diving into the Spring ecosystem.
+My current interests include functional programming (Ocaml, Elixir, and Erlang), and hacking around with C on Linux and Plan 9. 
 
-I also really enjoy digging into the nitty-gritty details of web service performance and exploring actor based systems.
+I'm obsessed with learning things down to the lowest levels, and am probably getting nerd sniped right now...
 
 ---
 
